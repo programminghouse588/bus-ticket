@@ -1,8 +1,8 @@
 const allSeats = document.getElementsByClassName('kbd');
 let seat = 0;
 let seatLeft = 8;
-let totalPrice = 0;
-let grandtotal = 0;
+let totalPrice = 550;
+let grandtotal = 550;
 
 
  for(const seats of allSeats) {
